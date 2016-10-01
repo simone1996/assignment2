@@ -1,0 +1,155 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+}
+
+h1 {text-align: center;
+	margin-top: 100px;
+	margin-bottom: 40px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+}
+
+#velkommen {
+	text-align: center;
+	margin-top: 70px;
+	margin-bottom: 20px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+}
+
+#velkommen1 {
+	text-align:center;
+	margin-top: 70px;
+	margin-bottom: -50px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h2 {
+	font-size: 20px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 200;
+	text-align: center;
+}
+
+h3 {
+	margin-top: 30px;
+	font-size: 20px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 200;
+	text-align: center;	
+}
+
+h4 {
+	margin-top: 100px;
+	font-size: 20px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 200;
+	text-align: center;
+}
+
+h5 {
+	margin-top: -50px;
+	font-size: 20px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 200;
+	text-align: center;	
+}
+
+h6 {
+	margin-top: 140px;
+	margin-bottom: -160px;
+	font-size: 20px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 200;
+	color: #C09A9A;
+	text-align: center;	
+}
+
+header {
+	width: 100%;
+	height: 80px;
+	background-color: #C09A9A;	
+}
+
+nav ul {
+	float: right;
+	margin-top: 28px;
+	margin-right: 50px;
+}
+
+nav ul li {
+	list-style: none;
+	float: left;
+	margin-right: 30px;
+}
+nav ul li a {
+	color: #FFFFFF;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 19px;
+	padding-top: 5px;
+}
+
+nav ul form {
+	float: left;	
+}
+
+nav ul form input {
+	float: left;
+	margin-right: 8px;
+	padding: 4px;
+	margin-top: -2px;
+}
+
+nav ul form button {
+	float: left;
+	margin-right: 30px;
+	padding: 4px;
+	cursor: pointer;
+	margin-top: -2px;	
+}
+
+#test {
+	margin-top: 200px;
+	margin-left: auto;
+	text-align: center;
+	margin-right: auto;
+	font-size: 33px;
+}
+
+#test input {
+	height: 40px;
+	width: 400px;	
+	background-color:#875354;
+	font-size: 18px;
+	border: 2px solid #B09E9E;
+}
+
+#test button {
+	height: 40px;
+	margin-top: 10px;
+	width: 400px;
+	border: 2px solid #B09E9E; 
+	font-size: 20px;
+	color: 875354;
+	padding: 10px;
+	cursor: pointer;
+	margin-left: -6px;
+}
+
+p {
+	font-size: 35px;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin-top: -400px;
+}
+
+#detox {
+	font-size: 36px;
+	margin-top: 200px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
